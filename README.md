@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <h2 align="center">Hi there 👋 My name is Susan, Welcome!</h2>
+</p>
+
+
+<p align="center">
+  <h4 align="center">Software Engineer, Data Enthusiast, and Wannabe Designer</h4>
+</p>
+
+More about me:
+
+- 👩‍🏫 I’m currently a TA at the University of Washington teaching INFO 474 - Interactive Information Visualization
+- 🔭 I’m previously an engineering intern at Twitch working on the Ads Team
+- 🌱 I’m currently studying mathematics and informatics at UW, with a special focus in Data Science
+- 🤔 I’m looking for help with research and career development
+- 💬 Ask me about my experience at Twitch, cooking and baking 🍰
+- 📫 Reach me at: susanxryang@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I used to be a swim instructor
 
 <!--
 **susanxryang/susanxryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
