@@ -1,13 +1,12 @@
 <p align="center">
-  <h2 align="center">Hi there 👋 My name is Susan, Welcome!</h2>
+  <h2 align="center">Hi there 👋 I'm Susan, Welcome to my page!</h2>
 </p>
 
 
 <p align="center">
-  <h4 align="center">Software Engineer, Data Enthusiast, and Wannabe Designer</h4>
+  <h4 align="center">Software Engineer, Data Enthusiast, and Wannabe Designer. <a href="https://susanxryang.github.io/">More About Me</a></h4>
+  
 </p>
-
-More about me:
 
 - 👩‍🏫 I’m currently a TA at the University of Washington teaching INFO 474 - Interactive Information Visualization
 - 🔭 I’m previously an engineering intern at Twitch working on the Ads Team
