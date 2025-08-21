@@ -4,18 +4,17 @@
 
 
 <p align="center">
-  <h4 align="center">Software Engineer, Data Enthusiast, and Wannabe Designer. <a href="https://susanxryang.github.io/">More About Me</a></h4>
+  <h4 align="center">Software engineer | Cloud developer | Always learning | Matcha-powered coder <a href="https://susanxryang.github.io/">More About Me</a></h4>
   
 </p>
 
-- 👩‍🏫 I’m currently a TA at the University of Washington teaching INFO 474 - Interactive Information Visualization
-- 🔭 I’m previously an engineering intern at Twitch working on the Ads Team
-- 🌱 I’m currently studying mathematics and informatics at UW, with a special focus in Data Science
-- 🤔 I’m looking for help with research and career development
-- 💬 Ask me about my experience at Twitch, cooking and baking 🍰
+- 🔭 I'm currently a **Software Engineer** at AWS Capacity Planning and Forecasting, where I work on Data Orchestration workflows using Java, Ruby, and AWS services.
+- 👾 I have previously worked on the Ad Supply team at Twitch where we build ad formats and ensure ad delivery.
+- 📚 I have a background in mathematics and informatics from the University of Washington.
+- 💬 Ask me about my experience at Twitch or AWS, Seattle, the outdoors, cooking, and more.
 - 📫 Reach me at: susanxryang@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I used to be a swim instructor
+
 
 <!--
 **susanxryang/susanxryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
