@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <h4 align="center">Software engineer | Cloud developer | Always learning | Matcha-powered coder <a href="https://susanxryang.github.io/">More About Me</a></h4>
+  <h4 align="center">Software Engineer | Cloud Developer | Always Learning | Matcha-powered Creative <a href="https://susanxryang.github.io/">More About Me</a></h4>
   
 </p>
 
